@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 943932e9bfdfe4940ae41130145d7fb4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inputField: {instanceID: 0}
+  - graphPrefab: {fileID: 6521408543795566713, guid: 29fd5a12bce708d4e9853923720fc99d, type: 3}
+  - graphParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
